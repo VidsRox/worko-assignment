@@ -13,5 +13,6 @@ Worko is a platform designed to help job seekers request referrals from multiple
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/worko.git
-   cd worko
+   git clone https://github.com/VidsRox/worko-assignment.git
+   cd worko-assignment
+   npm start
